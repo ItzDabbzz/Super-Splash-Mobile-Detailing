@@ -64,7 +64,7 @@ function App() {
         {/* CTA */}
         <div className="pt-4 animate-slide-up delay-700">
           <a
-            href="/"
+            href="https://app.urable.com/virtual-shop/G4YfmL6WSbF45xbUkTbG"
             className="inline-block rounded-xl bg-white text-neutral-900 px-6 py-3 font-semibold
                        hover:bg-neutral-200 hover:scale-105 transition-transform duration-200"
           >
